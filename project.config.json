@@ -1,6 +1,6 @@
 {
 	"miniprogramRoot": "dist/",
-	"projectname": "Emake",
+	"projectname": "weChat",
 	"description": "emake商城小程序",
 	"appid": "wxd4172059aed2f8db",
 	"setting": {
